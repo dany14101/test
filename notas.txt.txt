@@ -1,4 +1,2 @@
 Esta es una nota
-otra nota
-
-Hola
+Hola mundo
